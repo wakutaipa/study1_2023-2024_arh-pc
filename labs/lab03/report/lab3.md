@@ -80,41 +80,41 @@ header-includes:
  
   Открываю терминал и перехожу в каталог курса сформированный при выполнении лабораторной работы 2:
 
-![Рис 3.0](/home/mwakutaipa/Pictures/Screenshots/1.png){#fig:001 width=70%}
+![Рис 3.0](/image/Pictures/Screenshots/1.png){#fig:001 width=70%}
 
 Обновляю локальный репозиторий, скачав изменения из удаленного репозитория с помощью команды git pull:
 
-![Рис 3.1](/home/mwakutaipa/Pictures/Screenshots/2.png){#fig:001 width=70%}
+![Рис 3.1](/image/Pictures/Screenshots/2.png){#fig:001 width=70%}
 
 Перехожу в каталог с шаблоном отчета по лабораторной работе 3 с помощью cd :
 
-![Рис 3.2](/home/mwakutaipa/Pictures/Screenshots/3.png){#fig:001 width=70%}
+![Рис 3.2](/image/Pictures/Screenshots/3.png){#fig:001 width=70%}
 
 Компилирую шаблон с использованием Makefile, вводя команду make:
 
-![Рис 3.3](/home/mwakutaipa/Pictures/Screenshots/4.png){#fig:001 width=70%}
+![Рис 3.3](/image/Pictures/Screenshots/4.png){#fig:001 width=70%}
 
 Проверяю корректность полученных файлов:
 
-![Рис 3.4](/home/mwakutaipa/Pictures/Screenshots/10.png){#fig:001 width=70%}
+![Рис 3.4](/image/Pictures/Screenshots/10.png){#fig:001 width=70%}
 
 Удаляю полученный файлы с командой make clean и проверяю:
 
-![Рис 3.5](/home/mwakutaipa/Pictures/Screenshots/5.png){#fig:001 width=70%}
+![Рис 3.5](/image/Pictures/Screenshots/5.png){#fig:001 width=70%}
 
-![Рис 3.6](/home/mwakutaipa/Pictures/Screenshots/6.png){#fig:001 width=70%}
+![Рис 3.6](/image/Pictures/Screenshots/6.png){#fig:001 width=70%}
 
 Открываю файл report.md и изучаю его:
 
-![Рис 3.7](/home/mwakutaipa/Pictures/Screenshots/12.png){#fig:001 width=70%}
+![Рис 3.7](/image/Pictures/Screenshots/12.png){#fig:001 width=70%}
 
 Копирую файл с новым названием с помощью cp:
 
-![Рис 3.8](/home/mwakutaipa/Pictures/Screenshots/7.png){#fig:001 width=70%}
+![Рис 3.8](/image/Pictures/Screenshots/7.png){#fig:001 width=70%}
 
 Заполняю отчет с помощью Markdown в скопированном файле:
 
-![Рис 3.9](/home/mwakutaipa/Pictures/Screenshots/8.png){#fig:001 width=70%}
+![Рис 3.9](/image/Pictures/Screenshots/8.png){#fig:001 width=70%}
 
 
 ##  Задание для самостоятельной работы
@@ -122,35 +122,35 @@ header-includes:
 1. Перехожу в директорию lab02/report с помощью cd, чтобы там заполнять
 отчет по второй лабораторной работе:
 
-![Рис 4.0](/home/mwakutaipa/Pictures/Screenshots/ex1.png){#fig:001 width=70%}
+![Рис 4.0](/image/Pictures/Screenshots/ex1.png){#fig:001 width=70%}
 
 Там превращаю существующий .odt файл в .md файл:
 
-![Рис 4.1](/home/mwakutaipa/Pictures/Screenshots/ex2.png){#fig:001 width=70%}
+![Рис 4.1](/image/Pictures/Screenshots/ex2.png){#fig:001 width=70%}
 
 Открываю файл с помощью gedit и начинаю заполнять отчет:
 
-![Рис 4.2](/home/mwakutaipa/Pictures/Screenshots/ex3.png){#fig:001 width=70%}
+![Рис 4.2](/image/Pictures/Screenshots/ex3.png){#fig:001 width=70%}
 
-![Рис 4.3](/home/mwakutaipa/Pictures/Screenshots/ex4.png){#fig:001 width=70%}
+![Рис 4.3](/image/Pictures/Screenshots/ex4.png){#fig:001 width=70%}
 
 Удаляю предыдущий файл отчета:
 
-![Рис 4.4](/home/mwakutaipa/Pictures/Screenshots/ex5.png){#fig:001 width=70%}
+![Рис 4.4](/image/Pictures/Screenshots/ex5.png){#fig:001 width=70%}
 
 Компилирую файл с отчетом по лабораторной работе и проверяю:
 
-![Рис 4.5](/home/mwakutaipa/Pictures/Screenshots/ex6.png){#fig:001 width=70%}
+![Рис 4.5](/iamge/Pictures/Screenshots/ex6.png){#fig:001 width=70%}
 
-![Рис 4.6](/home/mwakutaipa/Pictures/Screenshots/ex7.png){#fig:001 width=70%}
+![Рис 4.6](/image/Pictures/Screenshots/ex7.png){#fig:001 width=70%}
 
 Удаляю report.docx и report.pdf:
 
-![Рис 4.7](/home/mwakutaipa/Pictures/Screenshots/ex8.png){#fig:001 width=70%}
+![Рис 4.7](/image/Pictures/Screenshots/ex8.png){#fig:001 width=70%}
 
 2. Добавляю файлы на GitHub с помощью git add и сохраняю изменения с помощью commit. Отправлялю файлы на сервер с помощью команды git push: 
 
-![Рис 4.8](/home/mwakutaipa/Pictures/Screenshots/ex9.png){#fig:001 width=70%}
+![Рис 4.8](/image/Pictures/Screenshots/ex9.png){#fig:001 width=70%}
 
 ##  Выводы
 
