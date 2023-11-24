@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Отчёта по лабораторной работе № 7"
+title: "Отчёт по лабораторной работе № 7"
 subtitle: "Дисциплина: Архитектура компьютера"
 author: "Вакутайпа Милдред"
 
@@ -16,8 +16,7 @@ csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 toc: true # Table of contents
 toc-depth: 2
 lof: true # List of figures
-lot: true # List of tables
-fontsize: 12pt
+fontsize: 14pt
 linestretch: 1.5
 papersize: a4
 documentclass: scrreprt
@@ -77,6 +76,7 @@ header-includes:
 # Выполнение лабораторной работы
 
 **1. Реализация переходов в NASM**
+
 Создаю каталог для программам лабораторной работы № 7, перехожу в него и создаю файл lab7-1.asm:
 
 ![Рис 1](image/1.png){#fig:001 width=70%}
@@ -125,6 +125,7 @@ header-includes:
 
 
 **2. Изучение структуры файлы листинга**
+
 Создаю файл листинга для программы из файла lab7-2.asm:
 
 ![Рис 13](image/14.png){#fig:001 width=70%}
@@ -210,6 +211,7 @@ call quit
 Создаю исполняемый файл и проверяю его работу для значения переменых из варианта 10:
 
 ![Рис 19](image/21.png){#fig:001 width=70%}
+
 # Выводы
 
 При выполнении лабораторной работы, я изучила команд условного и безусловного переходов в NASM.
